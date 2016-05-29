@@ -1,0 +1,28 @@
+name: weddingvideo
+favicon: null
+layout_spectrum: 0.4523461281787604
+typography_spectrum: 0.7802927924785763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.729641551617533
+  lightness: 0.4348540152423084
+  saturation: 0.45555966068059206
+  rhythmicContrast: 0.7068201631773263
+purpose: []
