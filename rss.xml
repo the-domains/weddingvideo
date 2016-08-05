@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[weddingvideo]]></title>
         <description><![CDATA[weddingvideo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/weddingvideo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 07:02:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 07:04:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/weddingvideo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23527510-257f-4d75-a96e-ee0039fba2b4.png">]]></description>
+            <link>https://thegrid.ai/weddingvideo/shooting-the-couple/index.html</link>
+            <guid isPermaLink="false">7a66b0e8-7ea0-45e9-a389-1228a86c58b1</guid>
+            <pubDate>Fri, 05 Aug 2016 07:04:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a77128c-b2da-4bb3-8785-6966a557954a.jpg">]]></description>
-            <link>undefinedamazing-preparations-shot/index.html</link>
+            <link>https://thegrid.ai/weddingvideo/amazing-preparations-shot/index.html</link>
             <guid isPermaLink="false">54f39c3a-03b1-431e-8ddb-695ff9c02ad9</guid>
             <pubDate>Fri, 05 Aug 2016 07:02:27 GMT</pubDate>
         </item>
