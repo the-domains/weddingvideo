@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[weddingvideo]]></title>
+        <description><![CDATA[weddingvideo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Aug 2016 07:02:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a77128c-b2da-4bb3-8785-6966a557954a.jpg">]]></description>
+            <link>undefinedamazing-preparations-shot/index.html</link>
+            <guid isPermaLink="false">54f39c3a-03b1-431e-8ddb-695ff9c02ad9</guid>
+            <pubDate>Fri, 05 Aug 2016 07:02:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
